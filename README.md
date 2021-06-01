@@ -1,4 +1,4 @@
-              Meet Cyril
+               Meet Cyril
 
 - 👋 Hi, I’m Cyril Chukwudi Chidolue.
 - 👀 I’m interested in all Tech development.

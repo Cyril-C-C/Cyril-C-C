@@ -1,7 +1,7 @@
-                 Meet Cyril
+              Meet Cyril
 
 - 👋 Hi, I’m Cyril Chukwudi Chidolue.
-- 👀 I’m interested in Front - End Development.
+- 👀 I’m interested in all Tech development.
 - 🌱 I’m currently learning and applying all to my new projects.
 - 💞️ I’m looking to collaborate and learn as much as possible.
 - 📫 You can keep in touch at “cyrilchidolue2016@gmail.com”.
